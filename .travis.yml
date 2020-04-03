@@ -52,5 +52,4 @@ notifications:
 
 branches:
   only:
-    - master
-    - 7.0
+    - lian-test
